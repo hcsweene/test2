@@ -4,4 +4,4 @@ I wrote this on the web.
 
 Also this.
 
-And this was on my laptop
+And this was on my dell
