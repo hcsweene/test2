@@ -3,8 +3,9 @@ Hi my name is Holly.
 I wrote this on the web.
 
 Also this.
-<<<<<<< HEAD
-=======
 
-And this was on my laptop
->>>>>>> laptop update
+<<<<<<< HEAD
+And this was on my notebook.
+=======
+And this was on my dell
+>>>>>>> overwrite on laptop
